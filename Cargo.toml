@@ -1,0 +1,9 @@
+[package]
+name = "zxq5fetch"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.1.0"
+sysinfo = "0.32.0"
+whoami = "1.5.2"
